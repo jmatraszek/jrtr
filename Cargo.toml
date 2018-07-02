@@ -4,3 +4,6 @@ version = "0.1.0"
 authors = ["Jakub Matraszek <jakub.matraszek@gmail.com>"]
 
 [dependencies]
+handlebars = "0.32.4"
+serde_json = "1.0.22"
+structopt = "0.2"
